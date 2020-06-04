@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分类 on blog</title>
+    <link>https:dyzne.github.io/categories/%E5%88%86%E7%B1%BB/</link>
+    <description>Recent content in 分类 on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https:dyzne.github.io/categories/%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https:dyzne.github.io/2019/12/21/my-first-post/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https:dyzne.github.io/2019/12/21/my-first-post/</guid>
+      <description>博客测试 1 2 3 4</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https:dyzne.github.io/2019/12/21/second/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https:dyzne.github.io/2019/12/21/second/</guid>
+      <description>博客测试 1 2 3 4</description>
+    </item>
+    
+  </channel>
+</rss>
